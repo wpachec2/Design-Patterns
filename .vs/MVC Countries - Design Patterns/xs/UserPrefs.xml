@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{40F3DE28-C9DA-4C3B-9638-6A2B9CBC13C4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVC_220Countries_220-_220Design_220Patterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC Countries - Design Patterns/CountryController.cs">
+    <Files>
+      <File FileName="MVC Countries - Design Patterns/Program.cs" Line="4" Column="28" />
+      <File FileName="MVC Countries - Design Patterns/Country.cs" Line="2" Column="42" />
+      <File FileName="MVC Countries - Design Patterns/CountryView.cs" Line="24" Column="46" />
+      <File FileName="MVC Countries - Design Patterns/CountryListView.cs" Line="18" Column="22" />
+      <File FileName="MVC Countries - Design Patterns/CountryController.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC Countries - Design Patterns" expanded="True">
+            <Node name="MVC Countries - Design Patterns" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

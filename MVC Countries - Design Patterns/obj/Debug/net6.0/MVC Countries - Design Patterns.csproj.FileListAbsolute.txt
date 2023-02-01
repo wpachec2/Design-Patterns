@@ -1,0 +1,15 @@
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/bin/Debug/net6.0/MVC Countries - Design Patterns
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/bin/Debug/net6.0/MVC Countries - Design Patterns.deps.json
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/bin/Debug/net6.0/MVC Countries - Design Patterns.runtimeconfig.json
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/bin/Debug/net6.0/MVC Countries - Design Patterns.dll
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/bin/Debug/net6.0/MVC Countries - Design Patterns.pdb
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.csproj.AssemblyReference.cache
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.AssemblyInfoInputs.cache
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.AssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.csproj.CoreCompileInputs.cache
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.dll
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/refint/MVC Countries - Design Patterns.dll
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.pdb
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/MVC Countries - Design Patterns.genruntimeconfig.cache
+/Users/wilchec/GrandCircus/Projects/MVC Countries - Design Patterns/MVC Countries - Design Patterns/obj/Debug/net6.0/ref/MVC Countries - Design Patterns.dll
